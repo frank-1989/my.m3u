@@ -1,0 +1,60 @@
+@@ -0,0 +1,61 @@
+<item>
+<title>TV3</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
+</item>
+
+<item>
+<title>NTV7</title>
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/zh/2/28/NTV7_New.JPG</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-nO726o6jsK4/TX62-KTRL7I/AAAAAAAAAHk/CDs1CIey2-E/s1600/fg.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-4AJMhfzV-fY/Um5MEGkIiLI/AAAAAAAADPM/Np-tNkbeiSc/s200/tv9.gif</thumbnail>
+</item>
+
+<item>
+<title>RTGlobal</title>
+<link>http://sat1liveios-i.akamaihd.net/hls/live/205904/ios/rtlive/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Astro Arena</title>
+<link>http://kejapjer.layarku.tv/live/arena/chunklist_w1002250467.m3u8</link>
+<thumbnail>http://marketingmagazine.com.my/newhome/images/img_2010/astro-arena01.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Ceria</title>
+<link>http://kejapjer.layarku.tv/live/ceria/chunklist_w27185716.m3u8</link>
+<thumbnail>http://i1.ytimg.com/vi/tbSbUAI-BcQ/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Ria</title>
+<link>http://kejapjer.layarku.tv/live/ria/chunklist_w680663946.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-b2HX6gxZBns/T34fzB4rCHI/AAAAAAAAAsw/L1b4WXs3Pjc/s1600/astro%2Bria.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Awani</title>
+<link>rtmp://cp160334.live.edgefcs.net/live/&amp;autostart=true&amp;type=rtmp&amp;skin=/tv/darksunset.zip&amp;image=/images/tvloading.jpg</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Warna</title>
+<link>http://kejapjer.layarku.tv/live/warna/chunklist_w1838174690.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/thumb/8/83/Astro_Warna.jpg/640px-Astro_Warna.jpg</thumbnail>
+</item>
